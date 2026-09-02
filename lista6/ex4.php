@@ -18,7 +18,7 @@ switch($opcao){
         $Refrigerante= 3;
         break;
     case 4:
-       echo "- Sorvete Flocos <br> - Churros <br> - Petit Gateau";
+        echo "- Sorvete Flocos <br> - Churros <br> - Petit Gateau";
         $Sobremesa = 4;
         break;
     case 5:
@@ -26,8 +26,8 @@ switch($opcao){
         $Saida = 5;
         break; 
     default:
-       echo "Opção Invalida";
-       break;
+        echo "Opção Invalida";
+        break;
        
 }
 ?>
